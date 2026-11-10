@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #faf9f6;
+  color: #292524;
+}
+
+html {
+  scroll-behavior: smooth;
+}
